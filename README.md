@@ -1,2 +1,2 @@
 # lancome_scrapping
-scrapping lancome data in amazon using beautifulsoup and selenium
+scrapping lancome reviews in amazon using beautifulsoup and selenium
